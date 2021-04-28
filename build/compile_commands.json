@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/abhishek/Desktop/C++_Projects/Opencv/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/DisplayImage.dir/02_Loading_Showing_Saving/main.cpp.o -c /home/abhishek/Desktop/C++_Projects/Opencv/02_Loading_Showing_Saving/main.cpp",
+  "file": "/home/abhishek/Desktop/C++_Projects/Opencv/02_Loading_Showing_Saving/main.cpp"
+}
+]
